@@ -1,0 +1,47 @@
+[
+    {
+        "title": "Class Meeting 2025",
+        "date": "2025-09-15",
+        "time": "08:00 - 15:00",
+        "location": "Lapangan Sekolah",
+        "description": "Acara tahunan pertandingan antar kelas dengan berbagai lomba seru dan menghibur.",
+        "contact": "Budi (XII IPA 1) - 08123456789",
+        "image": "https://kalsel.kemenag.go.id/files/fotoberita/384392.jpg"
+    },
+    {
+        "title": "Pentas Seni Akhir Tahun",
+        "date": "2025-12-10",
+        "time": "18:00 - 21:00",
+        "location": "Aula Sekolah",
+        "description": "Pertunjukan seni dari siswa-siswi dengan berbagai penampilan menarik.",
+        "contact": "Ani (XII IPS 2) - 08234567890",
+        "image": "https://source.unsplash.com/random/600x400/?art,performance"
+    },
+    {
+        "title": "Bazar Amal",
+        "date": "2025-11-20",
+        "time": "09:00 - 14:00",
+        "location": "Halaman Sekolah",
+        "description": "Bazar dengan berbagai stan makanan dan kerajinan tangan, hasil penjualan untuk donasi.",
+        "contact": "Rina (XI IPA 3) - 08345678901",
+        "image": "https://source.unsplash.com/random/600x400/?bazaar,food"
+    },
+    {
+        "title": "Lomba Hari Kemerdekaan",
+        "date": "2025-08-17",
+        "time": "07:00 - 12:00",
+        "location": "Lapangan Sekolah",
+        "description": "Berbagai lomba seru untuk memeriahkan Hari Kemerdekaan RI.",
+        "contact": "Doni (X MIPA 1) - 08456789012",
+        "image": "https://awsimages.detik.net.id/community/media/visual/2022/08/04/lomba-sambut-hut-ke-77-kemerdekaan-ri-2_169.jpeg?w=600&q=90"
+    },
+    {
+        "title": "Science Fair 2025",
+        "date": "2025-10-05",
+        "time": "09:00 - 15:00",
+        "location": "Lab dan Kelas Sekolah",
+        "description": "Pameran karya sains dan teknologi hasil karya siswa.",
+        "contact": "Siti (XII IPA 2) - 08567890123",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhElOiDNr-ZT2weXmMkisQd_juTBDUT9luhg&s"
+    }
+]
